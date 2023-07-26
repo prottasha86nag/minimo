@@ -1,2 +1,2 @@
 # minimo
-psd to html
+https://prottasha86nag.github.io/minimo/
